@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230977016874",
+    "firebase_url": "https://voice-dea27.firebaseio.com",
+    "project_id": "voice-dea27",
+    "storage_bucket": "voice-dea27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230977016874:android:8617198443e39101915f53",
+        "android_client_info": {
+          "package_name": "com.example.voice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230977016874-rugcub91ugvc1tfjntgbusad17enthfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voice",
+            "certificate_hash": "01bc6deaee3985a08d68cc8bbdac7c69f949aec8"
+          }
+        },
+        {
+          "client_id": "230977016874-63b7fde8a00t65d0cs2cr7hct4i0r0bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnhO1JLZWrmCBwXt3TPiBI10Co4QRYwKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230977016874-63b7fde8a00t65d0cs2cr7hct4i0r0bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
